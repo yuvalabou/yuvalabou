@@ -2,8 +2,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yuvalabou&theme=dark)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/yuvalabou/langs)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/yuvalabou/repos)](https://githubtrends.io)
 <!--
 **yuvalabou/yuvalabou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
